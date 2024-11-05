@@ -3,6 +3,8 @@ package org.example.Tasks;
 public class Task8 {
     public static void main(String[] args) {
 
+        //Hashmat Sayar
+
         int[] nums={5,2,4,3,9,6,7,1,8,10};
 
         int max=nums[0];

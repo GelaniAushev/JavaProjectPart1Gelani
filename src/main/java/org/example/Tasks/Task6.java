@@ -5,6 +5,8 @@ import java.util.Scanner;
 public class Task6 {
     public static void main(String[] args) {
 
+        //Vera
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter a number to check if it is prime: ");

@@ -3,6 +3,8 @@ package org.example.Tasks;
 public class Task9 {
     public static void main(String[] args) {
 
+        //Martin Schwarz
+
         int[] nums={1,2,3,4,5,6,7,8,9,10};
 
         int firstLargestNum=nums[0];

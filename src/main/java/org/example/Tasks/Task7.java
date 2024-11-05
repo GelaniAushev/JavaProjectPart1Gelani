@@ -3,6 +3,8 @@ package org.example.Tasks;
 public class Task7 {
     public static void main(String[] args) {
 
+        // Natalya Pan
+
         int n = 10;
         int first = 0;
         int second = 1;

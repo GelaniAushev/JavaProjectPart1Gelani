@@ -3,6 +3,8 @@ package org.example.Tasks;
 public class Task1 {
     public static void main(String[] args) {
 
+        //Gelani Aushev
+
         double[] temperatures = {25.5, 30.0, 33.5, 36.6, 35.0, 28.8, 40.0};
 
         double highest = temperatures[0];

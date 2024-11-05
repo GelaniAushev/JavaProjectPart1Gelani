@@ -3,6 +3,8 @@ package org.example.Tasks;
 public class Task10 {
     public static void main(String[] args) {
 
+        //Martin Schwarz
+
         String[] elements = {"Car", "Bread", "Phone", "Car", "Dishwasher", "Bread"};
 
         System.out.println("Duplicate elements:");
